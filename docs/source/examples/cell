@@ -1,0 +1,26 @@
+##FOF-TT_version=v0.1
+##Table_namespace=4dn_FOF-TT_cell
+##genome_assembly=GRCm38
+##XYZ_unit=nanometer
+##Time_unit=seconds
+#Software_Title: TRACK-IT
+#Software_Type: 3D Spot Localization + 3D Tracking
+#Software_Authors: Joo Lee and Alistair Boettiger
+#Software_Description:TRACK-IT 
+#Software_Repository: https://github.com/BoettigerLab/TRACK-IT
+#lab_name: Boettiger
+#experimenter_name: Joo Lee
+#experimenter_contact: jude.lee@stanford.edu
+#cell_type: mouse embryonic stem cells with 48xCuO, 48xTetO, CymR-2xHaloTag, and TetR-tdStayGold integration and Rad21 endogenously tagged with FKBP degron.
+#treatment: DMSO (mock treatment, no dTag)
+#Locus1: chr6:51321893, CymR-2xHaloTag-J549
+#Locus2: chr6:51320704, TetR-tdStayGold
+##Additional_tables=4dn_FOF-TT_quality, 4dn_FOF-TT_core
+##columns=(Cell_ID, Cell_Cycle, Well, Separation_Kb, Exp_ID)
+Cell_ID,Cell_Cycle,Well,Separation_Kb,Exp_ID
+202,G2,5,5,1
+202,G2,5,5,1
+202,G2,5,5,1
+202,G2,5,5,1
+202,G2,5,5,1
+202,G2,5,5,1
