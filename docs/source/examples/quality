@@ -1,0 +1,25 @@
+##FOF-TT_version=v0.1
+##Table_namespace=4dn_FOF-TT_quality
+##genome_assembly=GRCm38
+##XYZ_unit=nanometer
+##Time_unit=seconds
+#Software_Title: TRACK-IT
+#Software_Type: 3D Spot Localization + 3D Tracking
+#Software_Authors: Joo Lee and Alistair Boettiger
+#Software_Description:TRACK-IT 
+#Software_Repository: https://github.com/BoettigerLab/TRACK-IT
+#lab_name: Boettiger
+#experimenter_name: Joo Lee
+#experimenter_contact: jude.lee@stanford.edu
+#cell_type: mouse embryonic stem cells with 48xCuO, 48xTetO, CymR-2xHaloTag, and TetR-tdStayGold integration and Rad21 endogenously tagged with FKBP degron.
+#treatment: DMSO (mock treatment, no dTag)
+#Locus1: chr6:51321893, CymR-2xHaloTag-J549
+#Locus2: chr6:51320704, TetR-tdStayGold
+##Additional_tables=4dn_FOF-TT_cell, 4dn_FOF-TT_core
+##columns=(Spot_ID,Channel1_Name,Fluorophore1_Name,X1,Y1,Z1,Channel2_Name,Fluorophore2_Name,X2,Y2,Z2)
+Spot_ID,Channel1_Name,Fluorophore1_Name,X1,Y1,Z1,Channel2_Name,Fluorophore2_Name,X2,Y2,Z2
+1,camera1,JF549,74533.176,182108.196,-3488.2,camera2,tdStayGold,74660.131527787,182286.516720511,-3488.2
+2,camera1,JF549,74544.84,182173.968,-3465.045,camera2,tdStayGold,74614.6226733063,182314.436437084,-3465.045
+3,camera1,JF549,74542.68,182181.204,-3467.04,camera2,tdStayGold,74508.6067220034,182341.233106564,-3467.04
+4,camera1,JF549,74568.708,182259.774,-3500.685,camera2,tdStayGold,74604.4198733088,182383.883215846,-3500.685
+5,camera1,JF549,74594.736,182338.344,-3474.615,camera2,tdStayGold,74586.8406295016,182458.915256768,-3474.615
