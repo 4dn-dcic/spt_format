@@ -1,5 +1,5 @@
 ##################################################
-4DN FISH Omics Format - Chromatin Tracing (FOF-CT) (DRAFT/In Progress)
+4DN SPT Format - Single Particle Tracking (DRAFT: In Progress)
 ##################################################
 
 .. include:: intro.rst
