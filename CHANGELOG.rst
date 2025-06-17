@@ -9,4 +9,4 @@ Changelog
 0.0.1
 -----
 
-* Initial version of single particle tracking (SPT) prepared by 4DN imaging group.
+* Initial draft version of single particle tracking (SPT) prepared by 4DN imaging group.
