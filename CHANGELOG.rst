@@ -6,6 +6,13 @@
 Changelog
 ---------
 
+
+0.0.2
+-----
+
+* Adding new updates
+
+
 0.0.1
 -----
 
